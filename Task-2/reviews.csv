@@ -1,0 +1,31 @@
+review,sentiment
+"This product is amazing and works perfectly",positive
+"I am very happy with this purchase",positive
+"Excellent quality and fast delivery",positive
+"Absolutely fantastic experience",positive
+"I love this item so much",positive
+"Very satisfied with the performance",positive
+"Great value for money",positive
+"Highly recommend this to everyone",positive
+"Superb design and easy to use",positive
+"Five stars for this product",positive
+"This is the worst product I have ever bought",negative
+"Very disappointed with the quality",negative
+"Terrible experience and bad service",negative
+"I hate this product",negative
+"Completely useless and waste of money",negative
+"Not worth the price at all",negative
+"Very poor performance",negative
+"The product broke after one day",negative
+"Extremely bad customer support",negative
+"I will never buy this again",negative
+"The product is okay not great",neutral
+"It works fine but nothing special",neutral
+"Average quality product",neutral
+"Neither good nor bad experience",neutral
+"It is decent for the price",neutral
+"Service was acceptable",neutral
+"The product meets basic expectations",neutral
+"Nothing impressive about it",neutral
+"Moderate performance overall",neutral
+"It does the job but could be better",neutral
